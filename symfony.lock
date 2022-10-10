@@ -17,9 +17,7 @@
             "ref": "da713d006953b90d1c085c1be480ecdd6c4a95e0"
         },
         "files": [
-            "./config/packages/doctrine.yaml",
-            "./src/Entity/.gitignore",
-            "./src/Repository/.gitignore"
+            "./config/packages/doctrine.yaml"
         ]
     },
     "doctrine/doctrine-migrations-bundle": {
@@ -112,7 +110,6 @@
             "./config/routes/framework.yaml",
             "./config/services.yaml",
             "./public/index.php",
-            "./src/Controller/.gitignore",
             "./src/Kernel.php"
         ]
     },
